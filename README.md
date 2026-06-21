@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-una-caricia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Secretos de una caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-caricia/) |
+| **Get License** | [Music Rights & Licensing for Secretos de una caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-caricia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5255b85c16414a637de2493dcf2ea8e0773f9b3d0f314488aefd8adcc769b2b3` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

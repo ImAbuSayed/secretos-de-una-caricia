@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Secretos de una caricia |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-una-caricia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Secretos de una caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-caricia/) |
+| **Get License** | [Official Music Licensing for Secretos de una caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-una-caricia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dime si te atreves a sentir lo que yo siento
-> Cuando la noche enciende nuestro movimiento
-> Tus labios son el fuego, yo soy el combustible
-> Secretos de una caricia, un amor imposible
+> Subproject commit 7c89fe661f9513ffa1dc800253a6d4bdaa503ee2
+> Acércate un poco, apaga la luz,
+> que en esta noche la dueña eres tú.
+> Secretos de una caricia en la oscuridad,
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
